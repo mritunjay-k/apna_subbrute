@@ -1,7 +1,7 @@
 # apna_subbrute
 A very handy tool for finding subdomain takeover vulnerability.
 
-I was just using a subdomain enumeration tool to gather information regarding which of them are vulnerable to takeover. What i found was that the tool was too slow to process. Even on the high speed internet connection it took me about 3-4 hours just to enumerate all and even the result after that were not satisfying. The fast mode on that tool was still experimental, so I didn't wanna use that. 
+I was just using a very old subdomain enumeration tool to gather information regarding which of them are vulnerable to takeover. What i found was that the tool was too slow to process. Even on the high speed internet connection it took me about 3-4 hours just to enumerate all and even the result after that were not satisfying. The fast mode on that tool was still experimental, so I didn't wanna use that. 
 
 #### I thought why not develop my own??
 
